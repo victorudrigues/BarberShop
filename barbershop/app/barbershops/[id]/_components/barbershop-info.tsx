@@ -17,8 +17,6 @@ const BarberShopInfo = ({barbershop}: BarberShopInfoProps) => {
         router.back();
     }
 
-
-
     return (
         <>
             <div className="h-[250px] w-full relative">
