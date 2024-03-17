@@ -12,7 +12,7 @@ const Header = () => {
   return (
     <Card>
       <CardContent className="p-5 justify-between flex  flex-row items-center">
-        <Image src="/logo.png" alt="Logo BarberShop" height={18} width={120} />
+        <Image src="/logo_1.png" alt="Logo BarberShop" height={18} width={132} />
         <Sheet>
           <SheetTrigger asChild>
             <Button variant={"outline"} size="icon">
